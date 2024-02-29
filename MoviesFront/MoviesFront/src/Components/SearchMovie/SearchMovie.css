@@ -1,0 +1,6 @@
+.SearchMovie__container {
+  max-width: 500px;
+}
+.cmbCategory > button {
+  min-width: 180px;
+}
