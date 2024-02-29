@@ -1,3 +1,11 @@
+Getting started
+- Install Yarn(https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+- Run Movies MoviesAPI.sln on visual studio
+- open Visual studio code
+- Open the FrontMovies folden on visual studio code
+- open terminal
+- run yarn run dev
+  
 # Movies Test
 Users Created
 
