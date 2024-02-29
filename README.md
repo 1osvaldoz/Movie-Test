@@ -4,7 +4,7 @@ Getting started
 - open Visual studio code
 - Open the FrontMovies folden on visual studio code
 - open terminal
-- run yarn run dev
+- run on terminal the next command yarn run dev
   
 # Movies Test
 Users Created
